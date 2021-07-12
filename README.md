@@ -1,6 +1,6 @@
 # inventry-management-system
 this project help in hotel to create and send bill to the respected customer
-# =======xxxxxxxxxxxx Created by Aashish admin of @__pythonworld xxxxxxxxxxxx==================
+# =======xxxxxxxxxxxx Created by Prajval admin of @__pythonworld xxxxxxxxxxxx==================
 
 
 #=========== Importing Suitable Libraries =========================
